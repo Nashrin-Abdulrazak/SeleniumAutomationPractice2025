@@ -8,5 +8,10 @@ public class ProjectSpecificMethods {
 		locateElement("username");
 	}
 
+	private void locateElement(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
 	
 }
